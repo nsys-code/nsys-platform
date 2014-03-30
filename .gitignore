@@ -1,0 +1,10 @@
+.metadata/
+.settings/
+target/
+bin/
+obj/
+logs/
+
+.classpath
+.project
+clientdb.xml
