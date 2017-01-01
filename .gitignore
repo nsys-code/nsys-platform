@@ -1,10 +1,11 @@
 .metadata/
 .settings/
+.idea/
 target/
-bin/
-obj/
 logs/
 
+.DS_Store
 .classpath
 .project
 clientdb.xml
+*.iml
